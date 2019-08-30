@@ -7,12 +7,6 @@ import org.apache.cordova.CordovaWebView;
 import org.apache.cordova.PluginResult;
 import org.json.JSONArray;
 import org.json.JSONException;
-import org.json.JSONObject;
-
-import com.zarinpal.ewallets.purchase.OnCallbackRequestPaymentListener;
-import com.zarinpal.ewallets.purchase.OnCallbackVerificationPaymentListener;
-import com.zarinpal.ewallets.purchase.PaymentRequest;
-import com.zarinpal.ewallets.purchase.ZarinPal;
 
 import android.app.Activity;
 import android.content.Intent;
